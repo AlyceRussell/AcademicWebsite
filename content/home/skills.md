@@ -18,34 +18,18 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Data Cleaning, Management and Quality Control; Reproducible Research (inc interactive HTML or standard PDF outputs); Analysis & Visualisation; Writing Functions"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Biostatistics & Bioinformatics"
+  description = "Univariate and Multivariate Statistics; Discriminant Analyses; Glycomics; Genomics; Transcriptomics; Data Integration"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
 # Uncomment to use emoji icons.
-# [[feature]]
-#  icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
-
-+++
+[[feature]]
+  icon = ":woman_health_worker:"
+  icon_pack = "emoji" 
+  name = "Medical Research"
+  description = "Suboptimal Health Status and Age-Related Chronic Disorders"  
