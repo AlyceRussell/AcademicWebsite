@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Alyce Russell
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Edith Cowan University
+  url: "https://ecu.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include glycomics, biostatistics and suboptimal health status.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Glycomics
+- Biostatistics
+- Suboptimal Health
+- Bioinformatics
+- Precision Health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: MBiostat
+    institution: Macquarie University
+    year: Expected Completion 2022
+  - course: PhD
+    institution: Edith Cowan University
+    year: 2020
+  - course: MSc by Research in Human Biology
+    institution: Edith Cowan University
+    year: 2015
+  - course: BSc in Biomedical Science
+    institution: Edith Cowan University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,35 +49,38 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:a.russell@ecu.edu.au
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/nerdrusty
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=IYbHiK8AAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AlyceRussell
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alyce-russell-0039a667/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/20 - A.Russell CV_U10082020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Alyce Russell is a Postdoctoral Research Fellow in the School of Medical and Health Sciences at Edith Cowan University within Prof Wei Wang’s and A/Prof Simon Laws’ research teams. She is a medical scientist specialising in biostatistics who became an R enthusiast along her journey, and subsequently co-founded R-Ladies Perth in 2018. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her research is placed in the rapidly growing nexus of glycomics, biostatistics and suboptimal health status. Dr Russell currently supervises four PhD candidates, will commence unit coordination in semester 1 2021, and coordinates three of her own research projects. She regularly collaborates on other research projects by assisting with study design, data management and quality control, data analysis and visualisation, and reporting.
